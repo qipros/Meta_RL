@@ -1,0 +1,17 @@
+.mans {
+    margin-top: 127px;
+}
+
+.name {
+    font-family: 'DM Mono', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 20px 67px 0 67px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 60px;
+}

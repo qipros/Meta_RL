@@ -1,0 +1,48 @@
+.teammeet {
+    padding: 71px 0 253px;
+}
+
+.team2 {
+    background: url("");
+}
+
+.resume {
+    text-align: center;
+}
+
+.resum__title {
+    font-family: 'DM Mono',sans-serif;
+    font-size: 21px;
+    color: #FFFFFF;
+    line-height: 28px;
+    padding: 19px 0 18px;
+}
+.resume__desc {
+    font-family: 'DM Mono', sans-serif;
+    font-size: 11px;
+    line-height: 12px;
+    color: #8DFD1B;
+}
+
+.resum__desc {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.social2 {
+    padding: 22px 0 22px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.resumes {
+    display: flex;
+    column-gap: 150px;
+}
+

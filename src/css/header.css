@@ -1,0 +1,21 @@
+.header__container {
+    max-width: 1440px;
+    padding: 0 120px;
+    margin: 0 auto;
+}
+
+.list {
+    display: flex;
+    column-gap: 40px;
+    color: #fff;
+}
+
+.nav {
+    display: flex;
+    padding-top: 57px;
+    column-gap: 537px;
+}
+
+.social {
+    margin-right: 12px;
+}

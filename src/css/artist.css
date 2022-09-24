@@ -1,0 +1,5 @@
+.artist {
+    background: url("../images/artists.png") center/cover no-repeat;
+    height: 110px;
+    margin-top: 120px;
+}

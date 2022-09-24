@@ -1,0 +1,55 @@
+.story__title {
+    color: #fff;
+    font-family: 'Audiowide', sans-serif;
+    font-size: 38px;
+    line-height: 45px;
+    padding: 258px 0 61px;
+}
+
+.story {
+    text-align: center;
+}
+
+.btn {
+    width: 282px;
+    height: 72px;
+    color: #fff;
+    background: black;
+    font-family: 'DM Mono', sans-serif;
+    font-size: 16px;
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.js {
+    display: flex;
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn:hover {
+    background: #222222;
+    color: #8DFD1B;
+}
+
+.btn__text {
+    display: flex;
+    column-gap: 38px;
+}
+
+.btn__img {
+    margin: 60px 40px 225px 60px;
+}
+
+.btn__text {
+    background: #222222;
+    width: 878px;
+    height: 538px;
+}
+
+.geg {
+    margin-top: 70px;
+}

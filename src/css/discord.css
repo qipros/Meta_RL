@@ -1,0 +1,35 @@
+.discord {
+    padding-bottom: 118px;
+}
+
+.join__title {
+    font-family: 'Audiowide', sans-serif;
+    font-size: 51px;
+    line-height: 61px;
+    text-transform: uppercase;
+}
+
+.join__text {
+    color: #FFFFFF;
+}
+
+.join__desc {
+    margin: 35px 0;
+}
+
+.btn4 {
+    background: #8DFD1B;
+    color: black;
+    width: 213px;
+    height: 43px;
+    cursor: pointer;
+}
+
+.join {
+    display: flex;
+    column-gap: 239px;
+}
+
+.link__disc {
+    line-height: 43px;
+}

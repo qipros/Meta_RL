@@ -1,0 +1,6 @@
+.jbg {
+    background: url("../images/bag.png") center/cover no-repeat;
+    height: 240px;
+    margin-top: 120px;
+    position: relative;
+}

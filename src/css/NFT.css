@@ -1,0 +1,43 @@
+.colortext {
+    color: #A8A8A8;
+}
+
+.text__title {
+    color: #fff;
+    font-family: 'Audiowide', sans-serif;
+    font-size: 38px;
+    line-height: 45px;
+    padding: 121px 0 41px;
+}
+
+.collection {
+    display: flex;
+    column-gap: 161px;
+}
+
+.info1 {
+    color: #8DFD1B;
+    font-family: 'DM Mono', sans-serif;
+    font-size: 21px;
+    line-height: 32px;
+    padding:0 0 25px 22px;
+    position: relative;
+}
+
+.info2 {
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    line-height: 26px;
+    padding-bottom: 25px;
+}
+
+.info {
+    padding-top: 121px;
+}
+
+.info1:before {
+    position: absolute;
+    content: url("../images/green_stixk.png");
+    left: 0;
+}

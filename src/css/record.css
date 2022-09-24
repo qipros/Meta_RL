@@ -1,0 +1,35 @@
+.record {
+    color: #fff;
+}
+
+.record__title {
+    font-family: 'Audiowide', sans-serif;
+    font-size: 51px;
+    line-height: 61px;
+    padding: 128px 0 43px;
+}
+
+.record__desc {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    position: relative;
+}
+
+.bttn {
+    color: black;
+    background: #8DFD1B;
+    width: 205px;
+    height: 60px;
+    font-family: 'DM Mono', sans-serif;
+    font-size: 16px;
+    margin: 115px 0 103px;
+}
+
+.record__desc:before {
+    position: absolute;
+    content: url("../images/cards say true.png");
+    top: 0;
+    right: 0;
+    transform: translate(200px,-260px);
+}
